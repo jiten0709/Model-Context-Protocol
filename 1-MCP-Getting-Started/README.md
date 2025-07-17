@@ -20,6 +20,12 @@
     mcp dev server.py
   ```
 
+  OR
+
+  ```bash
+    uv run server.py
+  ```
+
 - then in mcp inspector, update the below fields
 
   ```bash
